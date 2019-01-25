@@ -1,0 +1,1 @@
+An attempt to create a realtime data pipeline using Kafka.
