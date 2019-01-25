@@ -1,3 +1,4 @@
+#test not for release
 #https://stackoverflow.com/questions/11291845/plot-the-results-of-a-multivariate-logistic-regression-model-in-r
 #http://www.cookbook-r.com/Statistical_analysis/Logistic_regression/
 
